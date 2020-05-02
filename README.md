@@ -55,7 +55,7 @@ I scan lichess database(there was 602M games at march 2019) and here is my resul
 
     ![](etc/img/ep-mate.png)
     
-9. Has ideas?
+9. Have ideas?
      
     Your turn :) 
 
